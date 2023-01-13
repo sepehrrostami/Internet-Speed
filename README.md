@@ -1,6 +1,6 @@
 # Internet-Speed
-A simlpe WebPage with am Embed code
-Optimized and mobile friendly
++A simlpe WebPage with am Embed code
++Optimized and mobile friendly
 The important piece is the "iframe" placed anywhere between the opening <body> and closing </body> tags of your website.
 
 Why is my test not responsive to mobile displays?
